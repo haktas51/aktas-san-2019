@@ -1,6 +1,6 @@
 Title: Automatic Landslide Susceptibility Mapping Using Novel Algorithm with MATLAB. 
 Authors: Hakan Aktaş and Bekir Taner San.  Journal: Computers and Geosciences
-Contact emails: hakanakta5151@gmail.com and tanersan@gmail.com
+Contact emails: hakanaktas5151@gmail.com and tanersan@gmail.com
 
 This repositorty contains matlab source code and test files for related algorithm. 
 User can download the source code and test files and then, automatically run the algorithm.
